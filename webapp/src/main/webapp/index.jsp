@@ -78,6 +78,7 @@
 
   <hr>
   <h3><a href="contact me.html">Contact me</a></h3>
+  </hr>
 </body>
 <form action="action_page.php">
   
