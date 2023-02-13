@@ -9,7 +9,6 @@
     <td><img src="https://chrt.org/wp-content/uploads/2017/10/DSC_8217--e1528817311125-198x300.jpg"></td>
     <td>
       <h1><a href="https://www.linkedin.com/in/yi-m-50ab5038/">Yi Mao</a></h1>
-      <h1>给你送情人节礼物你不理我 现在我把你从MAO fiancial CEO的位置上拉下来 给你降级成Feng Financial的CFO了</h1>
       <p><em>Founder and CFO of <strong>Feng Financial and Real Estates</strong></em></p>
       <p>I love skiing, rock climbing and making money</p>
     </td>
