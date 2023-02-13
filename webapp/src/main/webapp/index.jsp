@@ -69,6 +69,10 @@
         <td>Machine Learning</td>
         <td>⭐⭐⭐</td>
       </tr>
+      <tr>
+        <td>Artificial intelligence</td>
+        <td>⭐⭐⭐</td>
+      </tr>
     </tbody>
   </table>
 
