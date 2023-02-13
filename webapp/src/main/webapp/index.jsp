@@ -1,11 +1,11 @@
 <head>
   <meta charset="utf-8">
-  <title>Lei Feng's Personal Site</title>
+  <title>Yi Mao's Personal Site</title>
 </head>
 
 <body>
   <table cellspacing="20">
-    <td><img src="https://media.licdn.com/dms/image/C5103AQGqji4rPbTxDQ/profile-displayphoto-shrink_200_200/0/1517079753774?e=1681948800&v=beta&t=qQdE0OIzNSDYkpeu69cwATwW6kbxUOmMm0fpOEJWKJc" alt="Lei Feng profile pic"></td>
+    <td><img src="https://chrt.org/wp-content/uploads/2017/10/DSC_8217--e1528817311125-198x300.jpg"></td>
     <td>
       <h1><a href="https://www.linkedin.com/in/lei-feng-55bba658/">Lei Feng</a></h1>
       <p><em>Founder and CEO of <strong>Feng Financial and Real Estates</strong></em></p>
