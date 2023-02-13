@@ -7,9 +7,9 @@
   <table cellspacing="20">
     <td><img src="https://chrt.org/wp-content/uploads/2017/10/DSC_8217--e1528817311125-198x300.jpg"></td>
     <td>
-      <h1><a href="https://www.linkedin.com/in/lei-feng-55bba658/">Lei Feng</a></h1>
-      <p><em>Founder and CEO of <strong>Feng Financial and Real Estates</strong></em></p>
-      <p>I love skiing, rock climbing and jogging</p>
+      <h1><a href="https://www.linkedin.com/in/yi-m-50ab5038/">Yi Mao</a></h1>
+      <p><em>Founder and CEO of <strong>Mao Financial and Real Estates</strong></em></p>
+      <p>I love skiing, rock climbing and making money</p>
     </td>
   </table>
 
@@ -18,14 +18,14 @@
   <hr>
   <h3>Books and teaching</h3>
   <ul>
-    <li>CPC3 Development Guide</li>
+    <li>Data Science for Dummy</li>
   </ul>
 
   <hr>
   <h3>Hobbies</h3>
   <ol>
-    <li>Playing Guitar</li>
-    <li>Karate</li>
+    <li>Playing piano</li>
+    <li>Skiing</li>
     <li>Rock Climing</li>
   </ol>
 
@@ -37,12 +37,12 @@
       <th>Company</th>
     </thead>
     <tr>
-      <td>2010 - 2015</td>
-      <td>Phd in Michigan Technological University</td>
+      <td>2010 - 2014</td>
+      <td>Ms in University of Michigan</td>
     </tr>
     <tr>
-      <td>2015 - 2022</td>
-      <td>Mercedes-Benz Research and Development</td>
+      <td>2014 - 2022</td>
+      <td>Data Scientist</td>
     </tr>
     <tbody>
 
@@ -54,25 +54,12 @@
   <table cellspace = "10">
     <tbody>
       <tr>
-        <td>C++</td>
-        <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Python</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>HTML</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
         <td>Machine Learning</td>
-        <td>⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>Artificial intelligence</td>
-        <td>⭐⭐⭐</td>
+        <td>Selling houses</td>
       </tr>
+
     </tbody>
   </table>
 
