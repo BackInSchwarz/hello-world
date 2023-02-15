@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8">
-  <title>Yi Mao's Personal Site</title>
+  <title>Yi Mao's Personal Site with Ansible</title>
 </head>
 
 <body>
